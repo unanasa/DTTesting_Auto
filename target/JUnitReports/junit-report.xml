@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="44.704">
+<testcase classname="In order to remember the things I want to do, as a ToDo MVC user, I want to manage my todo list" name="New item can be added to the empty list" time="12.975">
+<system-out><![CDATA[Given an empty Todo list....................................................passed
+When MVC User adds a Todo for "Go shopping".................................passed
+Then only that item is listed...............................................passed
+And the list summary is "1 item left".......................................passed
+And the list’s filter is set to All with Completed and Active are unset.....passed
+And Clear Completed filter is unavailable...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="In order to remember the things I want to do, as a ToDo MVC user, I want to manage my todo list" name="Two new items can be added to the empty list" time="8.958">
+<system-out><![CDATA[Given an empty Todo list....................................................passed
+When MVC User adds Todos for "Go shopping" and "Clean the house"............passed
+Then only those two items are listed........................................passed
+And the list summary is "2 items left"......................................passed
+And the list’s filter is set to All with Completed and Active are unset.....passed
+And Clear Completed filter is unavailable...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="In order to remember the things I want to do, as a ToDo MVC user, I want to manage my todo list" name="Added items can be cleared" time="11.112">
+<system-out><![CDATA[Given an empty Todo list....................................................passed
+Given a Todo list with items "Go shopping" and "Clean the house"............passed
+And the first item is completed.............................................passed
+When ‘Clear completed’ is clicked...........................................passed
+Then only the second item is listed.........................................passed
+And the list summary is "1 item left".......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="In order to remember the things I want to do, as a ToDo MVC user, I want to manage my todo list" name="Added items can be removed from the list" time="11.093">
+<system-out><![CDATA[Given an empty Todo list....................................................passed
+Given a Todo list with item "Go shopping"...................................passed
+When the item is removed....................................................passed
+Then nothing is listed......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

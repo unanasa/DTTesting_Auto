@@ -1,0 +1,3 @@
+tests\TestRunner.class
+stepDefinitions\StepsToAddItems.class
+pages\ToDoHomePage.class

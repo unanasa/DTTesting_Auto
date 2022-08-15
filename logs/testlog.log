@@ -1,0 +1,421 @@
+ 2022-08-15 17:34:12,244  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:34:17,053  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:34:20,160  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:34:20,263  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:34:20,268  INFO [main] DTTesting:52 - --------Adding new todo item-----------
+ 2022-08-15 17:34:20,384  INFO [main] DTTesting:54 - --------New todo item added-----------
+ 2022-08-15 17:34:22,448  INFO [main] DTTesting:62 - --------Added first item is listed-----------
+ 2022-08-15 17:34:22,456  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:34:22,491  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:34:22,491  INFO [main] DTTesting:90 - --------Checking filter setup-----------
+ 2022-08-15 17:34:22,589  INFO [main] DTTesting:94 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 17:34:22,589  INFO [main] DTTesting:106 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 17:34:22,631  INFO [main] DTTesting:110 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 17:34:25,577 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:34:25,611  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:34:27,401  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:34:29,465  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:34:29,506  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:34:29,507  INFO [main] DTTesting:122 - --------Adding two new Todo items-----------
+ 2022-08-15 17:34:29,705  INFO [main] DTTesting:125 - --------Added two new Todo items-----------
+ 2022-08-15 17:34:31,804  INFO [main] DTTesting:133 - --------Added both todo items are listed-----------
+ 2022-08-15 17:34:31,806  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:34:31,866  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:34:31,868  INFO [main] DTTesting:90 - --------Checking filter setup-----------
+ 2022-08-15 17:34:32,031  INFO [main] DTTesting:94 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 17:34:32,032  INFO [main] DTTesting:106 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 17:34:32,073  INFO [main] DTTesting:110 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 17:34:34,943 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:34:34,961  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:34:36,810  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:34:39,181  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:34:39,239  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:34:39,242  INFO [main] DTTesting:122 - --------Adding two new Todo items-----------
+ 2022-08-15 17:34:39,397  INFO [main] DTTesting:125 - --------Added two new Todo items-----------
+ 2022-08-15 17:34:43,485  INFO [main] DTTesting:168 - --------Todo item is selected as completed-----------
+ 2022-08-15 17:34:45,543  INFO [main] DTTesting:174 - --------Clicked on 'Clear Completed'-----------
+ 2022-08-15 17:34:45,544  INFO [main] DTTesting:180 - --------Checking cleared todos are displayed-----------
+ 2022-08-15 17:34:45,604  INFO [main] DTTesting:192 - --------Cleared item is removed and next todo is available in the list-----------
+ 2022-08-15 17:34:45,605  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:34:45,647  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:34:45,648 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:34:46,507  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:34:48,185  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:34:50,384  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:34:50,444  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:34:50,445  INFO [main] DTTesting:52 - --------Adding new todo item-----------
+ 2022-08-15 17:34:50,554  INFO [main] DTTesting:54 - --------New todo item added-----------
+ 2022-08-15 17:34:52,566  INFO [main] DTTesting:144 - --------Removing item-----------
+ 2022-08-15 17:34:54,935  INFO [main] DTTesting:146 - --------Item is removed-----------
+ 2022-08-15 17:34:56,940  INFO [main] DTTesting:154 - --------Checking availability of removed todos-----------
+ 2022-08-15 17:34:56,961  INFO [main] DTTesting:157 - --------Item is removed from the list-----------
+ 2022-08-15 17:34:56,962 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:44:12,268  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:44:16,986  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:44:20,929  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:44:21,041  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:44:21,047  INFO [main] DTTesting:52 - --------Adding new todo item-----------
+ 2022-08-15 17:44:21,201  INFO [main] DTTesting:54 - --------New todo item added-----------
+ 2022-08-15 17:44:23,253  INFO [main] DTTesting:62 - --------Added first item is listed-----------
+ 2022-08-15 17:44:23,261  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:44:23,298  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:44:23,299  INFO [main] DTTesting:90 - --------Checking filter setup-----------
+ 2022-08-15 17:44:23,392  INFO [main] DTTesting:94 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 17:44:23,393  INFO [main] DTTesting:106 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 17:44:23,438  INFO [main] DTTesting:110 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 17:44:26,250 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:44:26,273  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:44:27,859  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:44:30,092  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:44:30,206  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:44:30,207  INFO [main] DTTesting:122 - --------Adding two new Todo items-----------
+ 2022-08-15 17:44:30,359  INFO [main] DTTesting:125 - --------Added two new Todo items-----------
+ 2022-08-15 17:44:32,459  INFO [main] DTTesting:133 - --------Added both todo items are listed-----------
+ 2022-08-15 17:44:32,460  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:44:32,500  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:44:32,501  INFO [main] DTTesting:90 - --------Checking filter setup-----------
+ 2022-08-15 17:44:32,619  INFO [main] DTTesting:94 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 17:44:32,620  INFO [main] DTTesting:106 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 17:44:32,659  INFO [main] DTTesting:110 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 17:44:35,474 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:44:35,491  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:44:37,111  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:44:39,403  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:44:39,463  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:44:39,465  INFO [main] DTTesting:122 - --------Adding two new Todo items-----------
+ 2022-08-15 17:44:39,638  INFO [main] DTTesting:125 - --------Added two new Todo items-----------
+ 2022-08-15 17:44:43,732  INFO [main] DTTesting:168 - --------Todo item is selected as completed-----------
+ 2022-08-15 17:44:45,789  INFO [main] DTTesting:174 - --------Clicked on 'Clear Completed'-----------
+ 2022-08-15 17:44:45,789  INFO [main] DTTesting:180 - --------Checking cleared todos are displayed-----------
+ 2022-08-15 17:44:45,841  INFO [main] DTTesting:192 - --------Cleared item is removed and next todo is available in the list-----------
+ 2022-08-15 17:44:45,842  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:44:45,870  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:44:45,871 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:44:46,643  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:44:48,316  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:44:50,409  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:44:50,466  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:44:50,467  INFO [main] DTTesting:52 - --------Adding new todo item-----------
+ 2022-08-15 17:44:50,568  INFO [main] DTTesting:54 - --------New todo item added-----------
+ 2022-08-15 17:44:52,578  INFO [main] DTTesting:144 - --------Removing item-----------
+ 2022-08-15 17:44:54,953  INFO [main] DTTesting:146 - --------Item is removed-----------
+ 2022-08-15 17:44:56,968  INFO [main] DTTesting:154 - --------Checking availability of removed todos-----------
+ 2022-08-15 17:44:56,985  INFO [main] DTTesting:157 - --------Item is removed from the list-----------
+ 2022-08-15 17:44:56,986 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:45:43,323  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:45:48,576  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:45:51,424  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:45:51,501  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:45:51,508  INFO [main] DTTesting:52 - --------Adding new todo item-----------
+ 2022-08-15 17:45:51,621  INFO [main] DTTesting:54 - --------New todo item added-----------
+ 2022-08-15 17:45:53,691  INFO [main] DTTesting:62 - --------Added first item is listed-----------
+ 2022-08-15 17:45:53,702  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:45:53,759  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:45:53,760  INFO [main] DTTesting:90 - --------Checking filter setup-----------
+ 2022-08-15 17:45:53,896  INFO [main] DTTesting:94 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 17:45:53,897  INFO [main] DTTesting:106 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 17:45:53,962  INFO [main] DTTesting:110 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 17:45:56,711 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:45:56,742  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:45:58,545  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:46:00,788  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:46:00,844  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:46:00,845  INFO [main] DTTesting:122 - --------Adding two new Todo items-----------
+ 2022-08-15 17:46:01,014  INFO [main] DTTesting:125 - --------Added two new Todo items-----------
+ 2022-08-15 17:46:03,105  INFO [main] DTTesting:133 - --------Added both todo items are listed-----------
+ 2022-08-15 17:46:03,106  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:46:03,157  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:46:03,158  INFO [main] DTTesting:90 - --------Checking filter setup-----------
+ 2022-08-15 17:46:03,280  INFO [main] DTTesting:94 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 17:46:03,281  INFO [main] DTTesting:106 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 17:46:03,327  INFO [main] DTTesting:110 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 17:46:06,058 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:46:06,080  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:46:07,723  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:46:09,864  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:46:09,938  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:46:09,940  INFO [main] DTTesting:122 - --------Adding two new Todo items-----------
+ 2022-08-15 17:46:10,100  INFO [main] DTTesting:125 - --------Added two new Todo items-----------
+ 2022-08-15 17:46:14,232  INFO [main] DTTesting:168 - --------Todo item is selected as completed-----------
+ 2022-08-15 17:46:16,293  INFO [main] DTTesting:174 - --------Clicked on 'Clear Completed'-----------
+ 2022-08-15 17:46:16,294  INFO [main] DTTesting:180 - --------Checking cleared todos are displayed-----------
+ 2022-08-15 17:46:16,349  INFO [main] DTTesting:192 - --------Cleared item is removed and next todo is available in the list-----------
+ 2022-08-15 17:46:16,350  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:46:16,383  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:46:16,384 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:46:17,175  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:46:18,872  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:46:20,978  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:46:21,039  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:46:21,040  INFO [main] DTTesting:52 - --------Adding new todo item-----------
+ 2022-08-15 17:46:21,155  INFO [main] DTTesting:54 - --------New todo item added-----------
+ 2022-08-15 17:46:23,169  INFO [main] DTTesting:144 - --------Removing item-----------
+ 2022-08-15 17:46:25,515  INFO [main] DTTesting:146 - --------Item is removed-----------
+ 2022-08-15 17:46:27,529  INFO [main] DTTesting:154 - --------Checking availability of removed todos-----------
+ 2022-08-15 17:46:27,549  INFO [main] DTTesting:157 - --------Item is removed from the list-----------
+ 2022-08-15 17:46:27,549 ERROR [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:51:37,051  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:51:41,883  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:51:44,168  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:51:44,254  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:51:44,263  INFO [main] DTTesting:52 - --------Adding new todo item-----------
+ 2022-08-15 17:51:44,346  INFO [main] DTTesting:54 - --------New todo item added-----------
+ 2022-08-15 17:51:46,403  INFO [main] DTTesting:62 - --------Added first item is listed-----------
+ 2022-08-15 17:51:46,410  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:51:46,447  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:51:46,448  INFO [main] DTTesting:90 - --------Checking filter setup-----------
+ 2022-08-15 17:51:46,546  INFO [main] DTTesting:94 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 17:51:46,547  INFO [main] DTTesting:106 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 17:51:46,587  INFO [main] DTTesting:110 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 17:51:49,491  INFO [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:51:49,513  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:51:51,210  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:51:53,146  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:51:53,216  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:51:53,217  INFO [main] DTTesting:122 - --------Adding two new Todo items-----------
+ 2022-08-15 17:51:53,396  INFO [main] DTTesting:125 - --------Added two new Todo items-----------
+ 2022-08-15 17:51:55,488  INFO [main] DTTesting:133 - --------Added both todo items are listed-----------
+ 2022-08-15 17:51:55,489  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:51:55,529  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:51:55,532  INFO [main] DTTesting:90 - --------Checking filter setup-----------
+ 2022-08-15 17:51:55,650  INFO [main] DTTesting:94 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 17:51:55,651  INFO [main] DTTesting:106 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 17:51:55,689  INFO [main] DTTesting:110 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 17:51:58,568  INFO [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:51:58,585  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:52:00,247  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:52:02,349  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:52:02,418  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:52:02,421  INFO [main] DTTesting:122 - --------Adding two new Todo items-----------
+ 2022-08-15 17:52:02,588  INFO [main] DTTesting:125 - --------Added two new Todo items-----------
+ 2022-08-15 17:52:06,699  INFO [main] DTTesting:168 - --------Todo item is selected as completed-----------
+ 2022-08-15 17:52:08,763  INFO [main] DTTesting:174 - --------Clicked on 'Clear Completed'-----------
+ 2022-08-15 17:52:08,764  INFO [main] DTTesting:180 - --------Checking cleared todos are displayed-----------
+ 2022-08-15 17:52:08,821  INFO [main] DTTesting:192 - --------Cleared item is removed and next todo is available in the list-----------
+ 2022-08-15 17:52:08,822  INFO [main] DTTesting:73 - --------Checking remaining todo item count----------
+ 2022-08-15 17:52:08,855  INFO [main] DTTesting:79 - --------Remaining item count is correct-----------
+ 2022-08-15 17:52:08,855  INFO [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:52:09,606  INFO [main] DTTesting:31 - --------Launching the browser-----------
+ 2022-08-15 17:52:11,223  INFO [main] DTTesting:34 - --------Opening the url-----------
+ 2022-08-15 17:52:13,231  INFO [main] DTTesting:40 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:52:13,314  INFO [main] DTTesting:42 - --------Todo textbox is empty-----------
+ 2022-08-15 17:52:13,315  INFO [main] DTTesting:52 - --------Adding new todo item-----------
+ 2022-08-15 17:52:13,444  INFO [main] DTTesting:54 - --------New todo item added-----------
+ 2022-08-15 17:52:15,542  INFO [main] DTTesting:144 - --------Removing item-----------
+ 2022-08-15 17:52:17,906  INFO [main] DTTesting:146 - --------Item is removed-----------
+ 2022-08-15 17:52:19,917  INFO [main] DTTesting:154 - --------Checking availability of removed todos-----------
+ 2022-08-15 17:52:19,938  INFO [main] DTTesting:157 - --------Item is removed from the list-----------
+ 2022-08-15 17:52:19,939  INFO [main] DTTesting:22 - --------Closing the browser-----------
+ 2022-08-15 17:57:12,407  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 17:57:25,941  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 17:57:28,750  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:57:28,832  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 17:57:28,839  INFO [main] DTTesting:54 - --------Adding new todo item-----------
+ 2022-08-15 17:57:28,947  INFO [main] DTTesting:56 - --------New todo item added-----------
+ 2022-08-15 17:57:31,000  INFO [main] DTTesting:64 - --------Added first item is listed-----------
+ 2022-08-15 17:57:31,007  INFO [main] DTTesting:75 - --------Checking remaining todo item count----------
+ 2022-08-15 17:57:31,041  INFO [main] DTTesting:81 - --------Remaining item count is correct-----------
+ 2022-08-15 17:57:31,042  INFO [main] DTTesting:92 - --------Checking filter setup-----------
+ 2022-08-15 17:57:31,144  INFO [main] DTTesting:96 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 17:57:31,145  INFO [main] DTTesting:108 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 17:57:31,180  INFO [main] DTTesting:112 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 17:57:34,206  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 17:57:34,247  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 17:57:36,084  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 17:57:38,128  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:57:38,241  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 17:57:38,245  INFO [main] DTTesting:124 - --------Adding two new Todo items-----------
+ 2022-08-15 17:57:38,418  INFO [main] DTTesting:127 - --------Added two new Todo items-----------
+ 2022-08-15 17:57:40,522  INFO [main] DTTesting:135 - --------Added both todo items are listed-----------
+ 2022-08-15 17:57:40,523  INFO [main] DTTesting:75 - --------Checking remaining todo item count----------
+ 2022-08-15 17:57:40,571  INFO [main] DTTesting:81 - --------Remaining item count is correct-----------
+ 2022-08-15 17:57:40,572  INFO [main] DTTesting:92 - --------Checking filter setup-----------
+ 2022-08-15 17:57:40,708  INFO [main] DTTesting:96 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 17:57:40,709  INFO [main] DTTesting:108 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 17:57:40,752  INFO [main] DTTesting:112 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 17:57:43,512  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 17:57:43,535  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 17:57:45,107  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 17:57:47,252  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:57:47,355  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 17:57:47,360  INFO [main] DTTesting:124 - --------Adding two new Todo items-----------
+ 2022-08-15 17:57:47,504  INFO [main] DTTesting:127 - --------Added two new Todo items-----------
+ 2022-08-15 17:57:51,608  INFO [main] DTTesting:170 - --------Todo item is selected as completed-----------
+ 2022-08-15 17:57:53,664  INFO [main] DTTesting:176 - --------Clicked on 'Clear Completed'-----------
+ 2022-08-15 17:57:53,665  INFO [main] DTTesting:182 - --------Checking cleared todos are displayed-----------
+ 2022-08-15 17:57:53,740  INFO [main] DTTesting:194 - --------Cleared item is removed and next todo is available in the list-----------
+ 2022-08-15 17:57:53,741  INFO [main] DTTesting:75 - --------Checking remaining todo item count----------
+ 2022-08-15 17:57:53,782  INFO [main] DTTesting:81 - --------Remaining item count is correct-----------
+ 2022-08-15 17:57:53,783  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 17:57:54,579  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 17:57:56,247  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 17:57:58,276  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 17:57:58,357  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 17:57:58,359  INFO [main] DTTesting:54 - --------Adding new todo item-----------
+ 2022-08-15 17:57:58,474  INFO [main] DTTesting:56 - --------New todo item added-----------
+ 2022-08-15 17:58:00,479  INFO [main] DTTesting:146 - --------Removing item-----------
+ 2022-08-15 17:58:02,869  INFO [main] DTTesting:148 - --------Item is removed-----------
+ 2022-08-15 17:58:04,873  INFO [main] DTTesting:156 - --------Checking availability of removed todos-----------
+ 2022-08-15 17:58:04,891  INFO [main] DTTesting:159 - --------Item is removed from the list-----------
+ 2022-08-15 17:58:04,894  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:18:58,522  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:19:05,706  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:19:08,717  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:19:08,818  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:19:08,827  INFO [main] DTTesting:55 - --------Adding new todo item-----------
+ 2022-08-15 19:19:08,943  INFO [main] DTTesting:57 - --------New todo item added-----------
+ 2022-08-15 19:19:11,032  INFO [main] DTTesting:65 - --------Added first item is listed-----------
+ 2022-08-15 19:19:11,043  INFO [main] DTTesting:76 - --------Checking remaining todo item count----------
+ 2022-08-15 19:19:11,083  INFO [main] DTTesting:82 - --------Remaining item count is correct-----------
+ 2022-08-15 19:19:11,084  INFO [main] DTTesting:93 - --------Checking filter setup-----------
+ 2022-08-15 19:19:11,224  INFO [main] DTTesting:97 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 19:19:11,225  INFO [main] DTTesting:109 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 19:19:11,270  INFO [main] DTTesting:113 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 19:19:14,009  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:19:14,043  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:19:15,706  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:19:17,928  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:19:17,978  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:19:17,979  INFO [main] DTTesting:125 - --------Adding two new Todo items-----------
+ 2022-08-15 19:19:18,137  INFO [main] DTTesting:128 - --------Added two new Todo items-----------
+ 2022-08-15 19:19:20,601  INFO [main] DTTesting:136 - --------Added both todo items are listed-----------
+ 2022-08-15 19:19:20,602  INFO [main] DTTesting:76 - --------Checking remaining todo item count----------
+ 2022-08-15 19:19:20,645  INFO [main] DTTesting:82 - --------Remaining item count is correct-----------
+ 2022-08-15 19:19:20,647  INFO [main] DTTesting:93 - --------Checking filter setup-----------
+ 2022-08-15 19:19:20,803  INFO [main] DTTesting:97 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 19:19:20,805  INFO [main] DTTesting:109 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 19:19:20,850  INFO [main] DTTesting:113 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 19:19:23,560  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:19:23,574  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:19:25,533  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:19:27,948  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:19:28,035  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:19:28,042  INFO [main] DTTesting:125 - --------Adding two new Todo items-----------
+ 2022-08-15 19:19:28,282  INFO [main] DTTesting:128 - --------Added two new Todo items-----------
+ 2022-08-15 19:19:32,381  INFO [main] DTTesting:171 - --------Todo item is selected as completed-----------
+ 2022-08-15 19:19:34,443  INFO [main] DTTesting:177 - --------Clicked on 'Clear Completed'-----------
+ 2022-08-15 19:19:34,444  INFO [main] DTTesting:183 - --------Checking cleared todos are displayed-----------
+ 2022-08-15 19:19:34,515  INFO [main] DTTesting:195 - --------Cleared item is removed and next todo is available in the list-----------
+ 2022-08-15 19:19:34,516  INFO [main] DTTesting:76 - --------Checking remaining todo item count----------
+ 2022-08-15 19:19:34,556  INFO [main] DTTesting:82 - --------Remaining item count is correct-----------
+ 2022-08-15 19:19:34,557  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:19:35,361  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:19:36,912  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:19:39,016  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:19:39,058  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:19:39,060  INFO [main] DTTesting:55 - --------Adding new todo item-----------
+ 2022-08-15 19:19:39,172  INFO [main] DTTesting:57 - --------New todo item added-----------
+ 2022-08-15 19:19:41,184  INFO [main] DTTesting:55 - --------Adding new todo item-----------
+ 2022-08-15 19:19:41,246  INFO [main] DTTesting:57 - --------New todo item added-----------
+ 2022-08-15 19:19:43,250  INFO [main] DTTesting:147 - --------Removing item-----------
+ 2022-08-15 19:19:52,045  INFO [main] DTTesting:149 - --------Item is removed-----------
+ 2022-08-15 19:19:54,054  INFO [main] DTTesting:157 - --------Checking availability of removed todos-----------
+ 2022-08-15 19:19:54,067  INFO [main] DTTesting:160 - --------Item is removed from the list-----------
+ 2022-08-15 19:19:54,068  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:20:43,743  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:20:49,258  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:20:51,673  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:20:51,773  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:20:51,779  INFO [main] DTTesting:55 - --------Adding new todo item-----------
+ 2022-08-15 19:20:51,913  INFO [main] DTTesting:57 - --------New todo item added-----------
+ 2022-08-15 19:20:53,978  INFO [main] DTTesting:65 - --------Added first item is listed-----------
+ 2022-08-15 19:20:53,985  INFO [main] DTTesting:76 - --------Checking remaining todo item count----------
+ 2022-08-15 19:20:54,018  INFO [main] DTTesting:82 - --------Remaining item count is correct-----------
+ 2022-08-15 19:20:54,021  INFO [main] DTTesting:93 - --------Checking filter setup-----------
+ 2022-08-15 19:20:54,123  INFO [main] DTTesting:97 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 19:20:54,124  INFO [main] DTTesting:109 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 19:20:54,171  INFO [main] DTTesting:113 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 19:20:56,933  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:20:56,960  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:20:58,589  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:21:00,815  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:21:00,866  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:21:00,868  INFO [main] DTTesting:125 - --------Adding two new Todo items-----------
+ 2022-08-15 19:21:01,008  INFO [main] DTTesting:128 - --------Added two new Todo items-----------
+ 2022-08-15 19:21:03,144  INFO [main] DTTesting:136 - --------Added both todo items are listed-----------
+ 2022-08-15 19:21:03,145  INFO [main] DTTesting:76 - --------Checking remaining todo item count----------
+ 2022-08-15 19:21:03,187  INFO [main] DTTesting:82 - --------Remaining item count is correct-----------
+ 2022-08-15 19:21:03,188  INFO [main] DTTesting:93 - --------Checking filter setup-----------
+ 2022-08-15 19:21:03,292  INFO [main] DTTesting:97 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 19:21:03,293  INFO [main] DTTesting:109 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 19:21:03,329  INFO [main] DTTesting:113 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 19:21:06,113  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:21:06,149  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:21:07,729  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:21:09,830  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:21:09,876  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:21:09,878  INFO [main] DTTesting:125 - --------Adding two new Todo items-----------
+ 2022-08-15 19:21:10,028  INFO [main] DTTesting:128 - --------Added two new Todo items-----------
+ 2022-08-15 19:21:14,115  INFO [main] DTTesting:171 - --------Todo item is selected as completed-----------
+ 2022-08-15 19:21:16,175  INFO [main] DTTesting:177 - --------Clicked on 'Clear Completed'-----------
+ 2022-08-15 19:21:16,180  INFO [main] DTTesting:183 - --------Checking cleared todos are displayed-----------
+ 2022-08-15 19:21:16,260  INFO [main] DTTesting:195 - --------Cleared item is removed and next todo is available in the list-----------
+ 2022-08-15 19:21:16,261  INFO [main] DTTesting:76 - --------Checking remaining todo item count----------
+ 2022-08-15 19:21:16,301  INFO [main] DTTesting:82 - --------Remaining item count is correct-----------
+ 2022-08-15 19:21:16,302  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:21:17,110  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:21:18,816  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:21:20,870  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:21:20,953  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:21:20,954  INFO [main] DTTesting:55 - --------Adding new todo item-----------
+ 2022-08-15 19:21:21,037  INFO [main] DTTesting:57 - --------New todo item added-----------
+ 2022-08-15 19:21:23,054  INFO [main] DTTesting:55 - --------Adding new todo item-----------
+ 2022-08-15 19:21:23,124  INFO [main] DTTesting:57 - --------New todo item added-----------
+ 2022-08-15 19:21:25,127  INFO [main] DTTesting:147 - --------Removing item-----------
+ 2022-08-15 19:21:27,460  INFO [main] DTTesting:149 - --------Item is removed-----------
+ 2022-08-15 19:21:29,461  INFO [main] DTTesting:157 - --------Checking availability of removed todos-----------
+ 2022-08-15 19:21:29,479  INFO [main] DTTesting:160 - --------Item is removed from the list-----------
+ 2022-08-15 19:21:29,480  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:22:32,667  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:22:37,805  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:22:40,251  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:22:40,343  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:22:40,349  INFO [main] DTTesting:55 - --------Adding new todo item-----------
+ 2022-08-15 19:22:40,437  INFO [main] DTTesting:57 - --------New todo item added-----------
+ 2022-08-15 19:22:42,496  INFO [main] DTTesting:65 - --------Added first item is listed-----------
+ 2022-08-15 19:22:42,512  INFO [main] DTTesting:76 - --------Checking remaining todo item count----------
+ 2022-08-15 19:22:42,551  INFO [main] DTTesting:82 - --------Remaining item count is correct-----------
+ 2022-08-15 19:22:42,552  INFO [main] DTTesting:93 - --------Checking filter setup-----------
+ 2022-08-15 19:22:42,652  INFO [main] DTTesting:97 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 19:22:42,653  INFO [main] DTTesting:109 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 19:22:42,692  INFO [main] DTTesting:113 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 19:22:45,548  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:22:45,575  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:22:47,228  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:22:49,225  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:22:49,307  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:22:49,308  INFO [main] DTTesting:125 - --------Adding two new Todo items-----------
+ 2022-08-15 19:22:49,467  INFO [main] DTTesting:128 - --------Added two new Todo items-----------
+ 2022-08-15 19:22:51,556  INFO [main] DTTesting:136 - --------Added both todo items are listed-----------
+ 2022-08-15 19:22:51,557  INFO [main] DTTesting:76 - --------Checking remaining todo item count----------
+ 2022-08-15 19:22:51,591  INFO [main] DTTesting:82 - --------Remaining item count is correct-----------
+ 2022-08-15 19:22:51,593  INFO [main] DTTesting:93 - --------Checking filter setup-----------
+ 2022-08-15 19:22:51,716  INFO [main] DTTesting:97 - --------'All' is set, 'Active' and 'Completed' are unset-----------
+ 2022-08-15 19:22:51,718  INFO [main] DTTesting:109 - --------Checking availability of 'Clear Completed' filter-----------
+ 2022-08-15 19:22:51,777  INFO [main] DTTesting:113 - --------Clear Completed filter is not exiting-----------
+ 2022-08-15 19:22:54,528  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:22:54,698  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:22:56,318  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:22:58,604  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:22:58,652  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:22:58,654  INFO [main] DTTesting:125 - --------Adding two new Todo items-----------
+ 2022-08-15 19:22:58,807  INFO [main] DTTesting:128 - --------Added two new Todo items-----------
+ 2022-08-15 19:23:02,900  INFO [main] DTTesting:171 - --------Todo item is selected as completed-----------
+ 2022-08-15 19:23:04,961  INFO [main] DTTesting:177 - --------Clicked on 'Clear Completed'-----------
+ 2022-08-15 19:23:04,962  INFO [main] DTTesting:183 - --------Checking cleared todos are displayed-----------
+ 2022-08-15 19:23:05,019  INFO [main] DTTesting:195 - --------Cleared item is removed and next todo is available in the list-----------
+ 2022-08-15 19:23:05,020  INFO [main] DTTesting:76 - --------Checking remaining todo item count----------
+ 2022-08-15 19:23:05,055  INFO [main] DTTesting:82 - --------Remaining item count is correct-----------
+ 2022-08-15 19:23:05,055  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 2022-08-15 19:23:05,823  INFO [main] DTTesting:32 - --------Launching the browser-----------
+ 2022-08-15 19:23:07,431  INFO [main] DTTesting:36 - --------Opening the url-----------
+ 2022-08-15 19:23:09,624  INFO [main] DTTesting:42 - --------Checking whether Todo textbox is empty-----------
+ 2022-08-15 19:23:09,673  INFO [main] DTTesting:44 - --------Todo textbox is empty-----------
+ 2022-08-15 19:23:09,673  INFO [main] DTTesting:55 - --------Adding new todo item-----------
+ 2022-08-15 19:23:09,778  INFO [main] DTTesting:57 - --------New todo item added-----------
+ 2022-08-15 19:23:11,793  INFO [main] DTTesting:147 - --------Removing item-----------
+ 2022-08-15 19:23:14,153  INFO [main] DTTesting:149 - --------Item is removed-----------
+ 2022-08-15 19:23:16,164  INFO [main] DTTesting:157 - --------Checking availability of removed todos-----------
+ 2022-08-15 19:23:16,177  INFO [main] DTTesting:160 - --------Item is removed from the list-----------
+ 2022-08-15 19:23:16,179  INFO [main] DTTesting:23 - --------Closing the browser-----------
+ 
